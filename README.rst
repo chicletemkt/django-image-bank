@@ -1,4 +1,6 @@
-# Django Stock Image Bank
+#######################
+Django Stock Image Bank
+#######################
 
 This is a simple API to integrate popular stock image services like `Pexels
 <https://pexels.com>`_ and `Unsplash <https://unsplash.com>`_ to a
